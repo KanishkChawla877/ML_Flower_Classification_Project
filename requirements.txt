@@ -1,0 +1,15 @@
+streamlit
+
+Pandas
+
+numpy
+
+scikit-learn
+
+altair
+
+seaborn
+
+matplotlib
+  
+ 
